@@ -10,7 +10,7 @@
  
  $ chmod +x Anaconda3-2019.03-Linux-x86_64.sh
  
- $ ./Anaconda3-2019.03-Linux-x86_64.sh -U
+ $ ./Anaconda3-2019.03-Linux-x86_64.sh
  
  ### you can just delete a tensorflow installation by $ rm -rf ~/anaconda3
 
