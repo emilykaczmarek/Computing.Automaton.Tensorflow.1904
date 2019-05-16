@@ -10,7 +10,7 @@
  
  $ chmod +x Anaconda3-2019.03-Linux-x86_64.sh
  
- $ sudo ./Anaconda3-2019.03-Linux-x86_64.sh -U
+ $ ./Anaconda3-2019.03-Linux-x86_64.sh -U
  
 
 ### Now to configure an environment with tensorflow
