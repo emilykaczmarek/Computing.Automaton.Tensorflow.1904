@@ -12,7 +12,7 @@
  
  $ ./Anaconda3-2019.03-Linux-x86_64.sh
  
- ### you can just delete a tensorflow installation by $ rm -rf ~/anaconda3
+### you can just delete a tensorflow installation by $ rm -rf ~/anaconda3
 
 ### Now to configure an environment with tensorflow
  https://towardsdatascience.com/tensorflow-gpu-installation-made-easy-use-conda-instead-of-pip-52e5249374bc
@@ -22,8 +22,8 @@
 ### Now test and use tensorflow
 
  $ conda activate tf_gpu
- ### Can deactivate by conda deactivate
- ### Can see other environments by conda info --envs
+### Can deactivate by conda deactivate
+### Can see other environments by conda info --envs
  
  $ python
 
