@@ -13,12 +13,12 @@
 
 $ conda create --name tf_gpu tensorflow-gpu
 
-Now test and use tensorflow
+## Now test and use tensorflow
 
 $ conda activate tf_gpu
 $ python
 
-# import import tensorflow as tf
-# sess = tf.Session(config=tf.ConfigProto(log_device_placement=True))
+import import tensorflow as tf
+sess = tf.Session(config=tf.ConfigProto(log_device_placement=True))
 
 
