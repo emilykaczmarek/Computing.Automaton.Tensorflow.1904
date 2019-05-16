@@ -1,7 +1,8 @@
 # Computing.Automaton.Tensorflow.1904
 
 ### Anaconda is meant to install in a users HOME directory
-### It is possible to setup a group install, with shared environments, but there should be enough space for each user to have their own install
+
+#### It is possible to setup a group install, with shared environments, but there should be enough space for each user to have their own install
 
  $ cd ~
  
