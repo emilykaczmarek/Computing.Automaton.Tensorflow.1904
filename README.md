@@ -11,7 +11,7 @@
  Now to configure an environment with tensorflow
  https://towardsdatascience.com/tensorflow-gpu-installation-made-easy-use-conda-instead-of-pip-52e5249374bc
 
-# conda create --name tf_gpu tensorflow-gpu
+$ conda create --name tf_gpu tensorflow-gpu
 
 Now test and use tensorflow
 
