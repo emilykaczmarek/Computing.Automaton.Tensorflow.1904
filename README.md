@@ -14,6 +14,8 @@
  
 ### you can just delete a tensorflow installation by $ rm -rf ~/anaconda3
 
+#### Make sure you close the terminal and open a new one so paths are done properly.
+
 ### Now to configure an environment with tensorflow
  https://towardsdatascience.com/tensorflow-gpu-installation-made-easy-use-conda-instead-of-pip-52e5249374bc
 
