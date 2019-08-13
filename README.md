@@ -33,4 +33,9 @@
  
  sess = tf.Session(config=tf.ConfigProto(log_device_placement=True))
 
-
+### Install Theano (optional)
+http://deeplearning.net/software/theano/install_ubuntu.html
+ $ conda install -c anaconda cudnn
+ $ conda install numpy scipy mkl nose sphinx pydot-ng
+ $ pip install parameterized
+ $ conda install theano pygpu
