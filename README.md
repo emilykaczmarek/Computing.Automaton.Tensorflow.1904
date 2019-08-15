@@ -44,12 +44,15 @@ Add the following path to your .bashrc file for cuda to have the includes in the
 
 export PATH="/usr/local/cuda/include:$PATH"
 
+----------------------------------------------------------
+
  $ conda create -n theano27 python=2.7
  
  $ conda activate theano27
- 
- $ conda install numpy=1.12 scipy mkl
+
 NOTE numpy=1.12, for some reason if you install the latest version of numpy here then the stuff doesn't work. install an old version, then install the latest version at the end.
+
+ $ conda install numpy=1.12 scipy mkl
 
  $ pip install parameterized
  
